@@ -1,0 +1,35 @@
+_repo: Widger-s-Quotes-and-Images-from-The-Confession-of-a-Child-of-the-Century-by-Alfred-de-Musset-T__7582
+contributor:
+  creator:
+    editor:
+      agent_name: Widger, David
+      birthdate: 1932
+      gutenberg_agent_id: '1961'
+      url: http://www.gutenberg.org/2009/agents/1961
+creator:
+  author:
+    agent_name: Musset, Alfred de
+    aliases:
+    - Musset, Louis Charles Alfred de
+    - De Musset, Alfred
+    - DeMusset, Alfred
+    birthdate: 1810
+    deathdate: 1857
+    gutenberg_agent_id: '1341'
+    url: http://www.gutenberg.org/2009/agents/1341
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
+description: ''
+gutenberg_issued: '2009-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7582'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quotations, French -- Translations into English'
+title: "Widger's Quotes and Images from The Confession of a Child of the Century by\
+  \ Alfred de Musset\r\nThe French Immortals: Quotes and Images"
+url: http://www.gutenberg.org/ebooks/7582
