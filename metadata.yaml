@@ -1,4 +1,5 @@
 _repo: Widger-s-Quotes-and-Images-from-The-Confession-of-a-Child-of-the-Century-by-Alfred-de-Musset-T__7582
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: archival
+  image_path: 7582-h/images/cover.jpg
 creator:
   author:
     agent_name: Musset, Alfred de
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1341
     wikipedia: http://en.wikipedia.org/wiki/Alfred_de_Musset
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7582#Widger-s-Quotes-and-Images-from-The-Confession-of-a-Child-of-the-Century-by-Alfred-de-Musset-T_
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
 identifiers:
